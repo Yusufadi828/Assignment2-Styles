@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+	background-image: url(kebakaran.jpg);
+	background-repeat: repeat-x;
+}
+.warp{
+	width: 40%;
+	margin: auto;
+	color: white;
+	border-radius: 10px;
+	font-family: comic sans ms;
+	background-color: auto;
+}
+.container{
+	padding: 5px;
+}
+table{
+	margin: center;
+}
+table td{
+	padding: 5px;
+}
+button{
+	width: 50px;
+	font-family: comic sans ms;
+	height: 30px;
+	background-color: floralwhite;
+	border-radius: 7px;
+
+}
